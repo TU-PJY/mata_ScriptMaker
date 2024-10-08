@@ -1,1 +1,1 @@
-If the text in the console window does not display properly, please use Windows Terminal.(Download from Microsoft Store)
+If the text in the console window does not display properly, please use Windows Terminal. (Download from Microsoft Store)
