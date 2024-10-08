@@ -1,2 +1,2 @@
 # mata_ScriptMaker
-script structure maker for mata_ENGINE
+Script template maker for mata_ENGINE
